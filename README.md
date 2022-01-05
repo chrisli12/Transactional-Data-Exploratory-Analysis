@@ -1,8 +1,4 @@
-# SQL Problem
-
-This question will test some basic knowledge of SQL. The first four questions should
-not take more than an hour to complete.
-
+#Exploratory Analysis on Transactional Sales Data
 ## Description of Tables
 
 There are three tables involved in this question: `transactions`, `segments` and
