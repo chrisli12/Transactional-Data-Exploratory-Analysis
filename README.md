@@ -1,4 +1,4 @@
-#Exploratory Analysis on Transactional Sales Data
+# Exploratory Analysis on Transactional Sales Data
 ## Description of Tables
 
 There are three tables involved in this question: `transactions`, `segments` and
